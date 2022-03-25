@@ -1,1 +1,1 @@
-hraf="https://github.com/suchenghacker/-/wiki
+https://github.com/suchenghacker/-/wiki
